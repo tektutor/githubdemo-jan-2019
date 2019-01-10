@@ -8,3 +8,4 @@ Audi A3
 Audi A4
 Mahindra Altura
 Mahindra Thar
+Toyota Fortuner
