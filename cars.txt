@@ -6,5 +6,4 @@ Audi Q5
 Audi Q7
 Audi A3
 Audi A4
-Mahindra Thar
-Mahindra XUV
+Mahindra Altura
